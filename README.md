@@ -1,31 +1,30 @@
-# MyTelegramOrgRoBot
+# TelegramOrgRoBot 
 
-~~(yet)~~ another my.telegram.org scrapper inside Telegram.
+~~(Evet)~~ Telegram içinde başka bir my.telegram.org kazıyıcı.
 
-### ⚠ legal DISclaimER 🚸
-please treat your APP ID and API HASH with care, and ensure that they do not fall into wrong hands.
+### ⚠ yasal DISclaimER 🚸
+lütfen APP ID'nize ve API HASH'ınıza özenle davranın ve yanlış ellere düşmemelerini sağlayın.
+**Telegram dedi**: __Bu değerin üçüncü şahıslara geçmesi yasaktır.__
+- üzerinde bulunabilir [Telegram](https://t.me/EfsaneStar)
 
-**Telegram said**: __It is forbidden to pass this value to third parties__.
+🙄 [MehmetBaba06](https://t.me/EfsaneStar) **bu depo kodunu kullanan tek Telegram Sahibidir**. 🙄😬
+__Diğer botlar için, bots__ **herhangi bir özel kimlik bilgisi*" göndermeden önce ilgili bot geliştiricilerine kaynak kodunu sorun.
 
-- can be found on [Telegram](https://telegram.dog/useTGXBot)
+## Sık Sorulan Sorular
 
-🙄 [@useTGxBot](https://telegram.dog/useTGXBot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
-__For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
 
-## Frequently Asked Questions
-
-- Should you Trust this bot?
+- Bu bota güveniyorsanız?
   - **NO**. __you should never sent any of your private credentials to unknown third-party Telegram Bots__. This bot / source code was an attempt to scrap `my.telegram.org` using `Python3` libraries.
 
 
-## installing
+## Yükleme
 
-#### The Easy Way
+#### Kolay Yol
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
-#### The Legacy Way
+#### Eski Yol
 
 - clone the repository, locally.
 ```sh
@@ -59,25 +58,25 @@ pip install -r requirements.txt
 python3 bot.py
 ```
 
-## [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+## [Mehmetbaba06](https://t.me/EfsaneStar)
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
 - Please report any issues to the support group: [@SpEcHlDe](https://t.me/joinchat/AHAujEjG4FBO-TH-NrVVbg)
 
 
-## learning
+## öğrenme
 
 check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
 
-## LICENSE
+## lisans
 [AGPLv3](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/LICENSE)
 
-## credits
+## Krediler
 
 - Libraries Used:
   - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
   - [requests](https://github.com/psf/requests)
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
-  - [me](https://tx.me/SpEcHlDe)
+  - [me](https://tx.me/EfsaneStar)

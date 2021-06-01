@@ -1,6 +1,6 @@
 # TelegramOrgRoBot 
 
-~~(Evet)~~ Telegram içinde başka bir my.telegram.org kazıyıcı.
+ Telegram içinde başka bir my.telegram.org kazıyıcı.
 
 ### ⚠ yasal DISclaimER 🚸
 lütfen APP ID'nize ve API HASH'ınıza özenle davranın ve yanlış ellere düşmemelerini sağlayın.

@@ -1,21 +1,15 @@
-# TelegramOrgRoBot 
+⚠ legal DISclaimER 🚸
+since, it is an open source code, there might be FORKs, hence, please treat your APP ID with care, and ensure that they do not fall into wrong hands. 
+Telegram said: It is forbidden to pass this value to third parties.
 
- Telegram içinde başka bir my.telegram.org kazıyıcı.
-
-### ⚠ yasal DISclaimER 🚸
-lütfen APP ID'nize ve API HASH'ınıza özenle davranın ve yanlış ellere düşmemelerini sağlayın.
-**Telegram dedi**: __Bu değerin üçüncü şahıslara geçmesi yasaktır.__
-- üzerinde bulunabilir [Telegram](https://t.me/EfsaneStar)
-
-🙄 [MehmetBaba06](https://t.me/EfsaneStar) **bu depo kodunu kullanan tek Telegram Sahibidir**. 🙄😬
-__Diğer botlar için, bots__ **herhangi bir özel kimlik bilgisi*" göndermeden önce ilgili bot geliştiricilerine kaynak kodunu sorun.
-
-## Sık Sorulan Sorular
+Features:
+👉 enter number, 
+👉 it will extract your APP ID and API HASH from my.telegram.org/apps.
 
 
-- Bu bota güveniyorsanız?
-  - **NO**. __you should never sent any of your private credentials to unknown third-party Telegram Bots__. This bot / source code was an attempt to scrap `my.telegram.org` using `Python3` libraries.
-
+Please note that this bot or its dev is in no way associated with https://telegram.org.
+They just offer free APIs and they have a neat way to connect bots to that service.
+The dev is based in India 🇮🇳 and you do not need to worry about privacy concerns or ads (We hate it, too). Remember that providing your own phone number to this bot is very important for this bot to function, properly.
 
 ## Yükleme
 

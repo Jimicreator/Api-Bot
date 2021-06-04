@@ -67,6 +67,7 @@ def scarp_tg_existing_app(stel_token):
                 }
             },
             "Disclaimer": _a
+            "@jintons"
         }
         #
         re_status_id = True

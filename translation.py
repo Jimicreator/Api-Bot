@@ -7,8 +7,6 @@ Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
 now please send the Telegram code that you received from Telegram!
 
 this code is only used for the purpose of getting the APP ID from my.telegram.org
-if you do not trust this bot dev, please host this bot yourself
-by opening https://github.com/SpEcHiDe/MyTelegramOrgRoBot and clicking on the Pink Button
 
 /start at any stage to re-enter your details"""
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."

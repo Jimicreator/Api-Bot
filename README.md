@@ -74,3 +74,13 @@ check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
   - [me](https://tx.me/EfsaneStar)
+
+### Deploy 
+
+Deploy on Heroku
+<p align="left">
+  <a href="https://heroku.com/deploy?template=https://github.com/JNSBOT/JNS_Api_Hash_finder">
+     <img height="100px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
+</p>
+

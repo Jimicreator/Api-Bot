@@ -79,7 +79,7 @@ check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree
 
 Deploy on Heroku
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/JNSBOT/JNS_Api_Hash_finder">
+  <a href="https://heroku.com/deploy?template=https://github.com/Jimicreator/Api-Bot">
      <img height="100px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
